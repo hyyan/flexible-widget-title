@@ -1,5 +1,10 @@
 # [Wordpress Flexible Widget Title ](https://github.com/hyyan/flexible-widget-title/)
 
+[![project status](http://stillmaintained.com/hyyan/flexible-widget-title.png)](http://stillmaintained.com/hyyan/flexible-widget-title)
+[![Latest Stable Version](https://poser.pugx.org/hyyan/flexible-widget-title/v/stable.svg)](https://packagist.org/packages/hyyan/flexible-widget-title)
+[![Total Downloads](https://poser.pugx.org/hyyan/flexible-widget-title/downloads.svg)](https://packagist.org/packages/hyyan/flexible-widget-title)
+[![License](https://poser.pugx.org/hyyan/flexible-widget-title/license.svg)](https://packagist.org/packages/hyyan/flexible-widget-title)
+
 The plugin will enable you to hide widgets title in the front end while they 
 still visible in the backend.
 
