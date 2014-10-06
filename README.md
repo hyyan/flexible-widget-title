@@ -8,9 +8,8 @@ still visible in the backend.
 
 ### Classical way
     
-1. Download the plugin as zip archive and then upload to your wordpress plugin folder and 
+1. Download the plugin as zip archive and then upload it to your wordpress plugins folder and 
 extract it there.
-
 2. Activate the plugin from your admin panel
 
 ### Composer way
