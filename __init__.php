@@ -7,6 +7,7 @@
  * Author: Hyyan Abo Fakher
  * Version: 0.1
  * Author URI: https://github.com/hyyan
+ * License: MIT License
  */
 
 add_filter('widget_title', function($widget_title) {
