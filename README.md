@@ -10,7 +10,6 @@ still visible in the backend.
     
 1. Download the plugin as zip archive and then upload to your wordpress plugin folder and 
 extract it there.
-
 2. Activate the plugin from your admin panel
 
 ### Composer way
