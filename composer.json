@@ -1,7 +1,7 @@
 {
     "name": "hyyan/flexible-widget-title",
     "description": "The plugin will enable you to hide widgets title in the front end while they still visible in the backend.",
-    "type": "wordpress-muplugin",
+    "type": "wordpress-plugin",
     "license": "MIT",
     "authors": [
         {
