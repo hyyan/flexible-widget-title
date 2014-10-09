@@ -1,4 +1,8 @@
 
+###0.2.1
+
+Avoided notice which are generated because of titles which are shorter than two chars
+
 ###0.2
 
 * Added support for "github-updater" plugin
