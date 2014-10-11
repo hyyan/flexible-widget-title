@@ -28,4 +28,6 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 
 `composer require hyyan/flexible-widget-title:version`
 
- 
+== Screenshots ==
+
+1. Example of using the plugin in the wordpress backend
