@@ -5,9 +5,10 @@
 [![Total Downloads](https://poser.pugx.org/hyyan/flexible-widget-title/downloads.svg)](https://packagist.org/packages/hyyan/flexible-widget-title)
 [![License](https://poser.pugx.org/hyyan/flexible-widget-title/license.svg)](https://packagist.org/packages/hyyan/flexible-widget-title)
 
-The plugin will enable you to hide widgets title in the front end while they 
+The plugin will enable you to hide the widgets title in the front end while they 
 still visible in the backend.
 
+![ScreenShot](https://raw.github.com/hyyan/flexible-widget-title/master/screenshot-1.png)
 
 ## How to install
 
