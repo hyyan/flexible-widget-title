@@ -1,3 +1,7 @@
+### 1.0.0
+
+* Added screenshot.png
+* Added wordpress ```readme.txt``` file
 
 ###0.2.1
 

@@ -5,7 +5,7 @@
  * Plugin URI: https://github.com/hyyan/flexible-widget-title/
  * Description: The plugin will enable you to hide widgets title in the front end while they still visible in the backend by surrounding the widgets title in "[]" brackets. for example : [widget tilte]
  * Author: Hyyan Abo Fakher
- * Version: 0.2.1
+ * Version: 1.0.0
  * Author URI: https://github.com/hyyan
  * GitHub Plugin URI: hyyan/flexible-widget-title
  * License: MIT License
