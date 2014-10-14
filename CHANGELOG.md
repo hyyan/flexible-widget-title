@@ -1,3 +1,7 @@
+### 1.0.1
+
+* Prevented direct access for the plugin file
+
 ### 1.0.0
 
 * Added screenshot.png
