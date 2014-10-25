@@ -1,5 +1,9 @@
 ### 1.0.1
 
+* Fixed [Issue#1](https://github.com/hyyan/flexible-widget-title/issues/1)
+
+### 1.0.1
+
 * Prevented direct access for the plugin file
 
 ### 1.0.0
