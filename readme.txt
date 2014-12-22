@@ -3,7 +3,7 @@ Contributors: hyyan
 Tags: widget,widget title
 Requires at least: 3.0.1
 Tested up to: 4.1.0
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: MIT
 
 The plugin will enable you to hide widgets title in the front end while the widget title still visible in the backend.
