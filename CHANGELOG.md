@@ -1,4 +1,8 @@
-### 1.0.1
+### 1.0.3
+
+* Tested on wordpress 4.1.0
+
+### 1.0.2
 
 * Fixed [Issue#1](https://github.com/hyyan/flexible-widget-title/issues/1)
 
