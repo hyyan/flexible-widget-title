@@ -24,14 +24,19 @@ extract it there.
 
 ## How to use
 
-If you want to hide the widget tilte in the front end just surround the widgets 
-with "[]" .
+If you want to hide the widget tilte in the front end just surround the title "[]" .
 
 For instance :
 
 ``` 
 [My widget title]
 ```
+
+## You don't Like Syntax 
+
+If you don't like the `[]` syntax , it is OK , you can change this in the plugin
+settings to become for example just `!` .
+
 
 ## Contributing
 

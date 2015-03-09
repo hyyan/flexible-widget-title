@@ -1,3 +1,8 @@
+### 2.0
+
+* Add the ability to change the `[]` syntax
+* Tested on wordpress 4.1.1
+
 ### 1.0.3
 
 * Tested on wordpress 4.1.0
